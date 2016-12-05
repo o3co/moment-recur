@@ -31,5 +31,5 @@ gulp.task('compress', function(done) {
 });
 
 gulp.task('default', function() {
-  return runSequence('test','compress')
+  console.error('Please use "npm run all" instead.')
 });
