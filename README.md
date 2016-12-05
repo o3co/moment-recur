@@ -45,7 +45,7 @@ bower install moment-recur
 ### node.js
 moment-recur can be installed with npm and required into a script.
 ```
-npm install moment-recur
+npm install https://github.com/o3co/moment-recur.git#npm
 ```
 
 ```js
